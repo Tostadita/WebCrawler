@@ -18,8 +18,9 @@ Web Crawler consists of two main files:
 - Requests library
 
 ### Acknowledgments
-  [Beautiful Soup]([url](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)) - Python library for web scraping
-  [Requests]([url](https://requests.readthedocs.io/en/latest/)) - Python library for making HTTP requests
+  [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Python library for web scraping
+  
+  [Requests](https://requests.readthedocs.io/en/latest/) - Python library for making HTTP requests
 
 
 #### Contact
