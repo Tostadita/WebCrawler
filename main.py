@@ -6,7 +6,7 @@ def main(url: str):
     webcrawler = WebCrawler(url)
     entries = webcrawler.scrape_webpage()
 
-    print('\n******************************************* COMPLETE DATA ***************************************')
+    print('\n******************************************* COMPLETE DATA ****************************************')
 
     webcrawler.save_to_file('complete_data.json', entries)
     for entry in entries:
